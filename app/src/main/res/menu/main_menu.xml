@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/permission_btn"
+        android:title="Permission"
+        app:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/main_view"
+        android:title="Insert Data"
+        app:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+</menu>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/activity_session"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Activity session">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/sleep_session"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Sleep session">
+
+                </Button>
+                <Button
+                    android:id="@+id/sleep_stage"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Sleep stage">
+
+                </Button>
+                <Button
+                    android:id="@+id/blood_pressure"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Blood pressure">
+
+                </Button>
+                <Button
+                    android:id="@+id/blood_glucose"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Blood glucose">
+
+                </Button>
+                <Button
+                    android:id="@+id/heart_rate"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show heart rate">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/blood_oxygen"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Blood oxygen">
+
+                </Button>
+                <Button
+                    android:id="@+id/weight"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Weight">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/nutrition"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show Nutrition">"
+
+                </Button>
+
+                <Button
+                    android:id="@+id/total_energy_burned"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show total energy burned">
+
+                </Button>
+
+                <Button
+                    android:id="@+id/distance"
+                    android:layout_width="300dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="2dp"
+                    android:textAllCaps="false"
+                    android:textSize="12dp"
+                    android:text="Show distance">"
+
+                </Button>
+
+            </LinearLayout>
+        </ScrollView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

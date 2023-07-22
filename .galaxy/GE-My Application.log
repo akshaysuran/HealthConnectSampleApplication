@@ -1,0 +1,16 @@
+[2023-07-19 02:45:18] [L] galaxy property is null or empty 
+[2023-07-19 02:45:18] [L] Non-GB Project : My Application 
+[2023-07-19 02:45:18] [L] allprojects : project : app 
+[2023-07-19 02:45:18] [L] Non-GB Project : app 
+[2023-07-19 02:45:18] [D] gradle projects loaded 
+[2023-07-19 02:45:18] [L] default maven repo is set to nexus by default (non-GB or GB v1) : it will be please move to bart 
+[2023-07-19 02:45:18] [L] Maven repo base URL : http://10.252.250.53:8081 
+[2023-07-19 02:45:18] [I] set common default repository : samsung maven 
+[2023-07-19 02:45:18] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public 
+[2023-07-19 02:45:18] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public 
+[2023-07-19 02:45:18] [I] set common default strategy 
+[2023-07-19 02:45:18] [I] set common default repository : samsung maven 
+[2023-07-19 02:45:18] [I]     Default Repo : buildscript repository : http://10.252.250.53:8081/lm/content/groups/public 
+[2023-07-19 02:45:18] [I]     Default Repo : repository : http://10.252.250.53:8081/lm/content/groups/public 
+[2023-07-19 02:45:18] [I] set common default strategy 
+[2023-07-19 02:45:19] [D] gradle projects evaluated 
